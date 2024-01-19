@@ -12,7 +12,9 @@ Tujuan utama dari aplikasi stemming adalah meningkatkan pemahaman teks dengan me
 Pemilihan algoritma stemming Nazief-Adriani sebagai model untuk aplikasi, terutama jika berfokus pada pemrosesan teks dalam bahasa Indonesia.Pengumpulan data teks dalam bahasa Indonesia yang akan diproses.data mencakup variasi kata-kata untuk menguji keefektifan stemming.Kemudian pra-pemrosesan teks, termasuk penghilangan tanda baca, konversi teks ke huruf kecil (lowercasing), dan penghilangan karakter khusus.tokenisasi untuk membagi teks menjadi kata-kata individu. Tokenisasi memungkinkan pemrosesan kata per kata.Menerapkan algoritma Nazief-Adriani pada setiap kata untuk memotong imbuhan dan mendapatkan bentuk dasar dalam bahasa Indonesia.Evaluasi hasil stemming untuk memastikan bahwa pemenggalan kata dasar sesuai dengan harapan. Tinjau beberapa contoh secara manual untuk memastikan bahwa pemenggalan berjalan dengan benar.Integrasikan proses pemenggalan kata dasar ke dalam aplikasi utama.Memastikan bahwa alur ini dapat dijalankan secara efisien dan terintegrasi dengan langkah-langkah pemrosesan teks lainnya dalam aplikasi.<br/>
 
 # 4. Performa Model / Uji Performa Model <br/>
-![Screenshot (143)](https://github.com/ardyanwahyu/TugasAkhirSTKI/assets/113100616/361fa125-ee4b-4be6-bfb8-1c5f8f187407)
+![Screenshot (143)](https://github.com/ardyanwahyu/TugasAkhirSTKI/assets/113100616/361fa125-ee4b-4be6-bfb8-1c5f8f187407) <br/>
+![Screenshot (144)](https://github.com/ardyanwahyu/TugasAkhirSTKI/assets/113100616/723b889d-6bca-44b2-9e85-465661caeacc)
+
 
 
 
